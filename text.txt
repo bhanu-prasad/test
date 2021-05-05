@@ -1,8 +1,12 @@
 awsfcaedsgfasd
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 .............
 .........
 new line
 oneline
 new line
 Stashed changes
+oneline
+new line
+
